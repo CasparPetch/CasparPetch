@@ -1,5 +1,5 @@
 <h1 align="center">Hi 👋, I'm Caspar</h1>
-<h3 align="center">An aspiring data analyst / data scientist</h3>
+<h3 align="center">Aspiring data analyst / data scientist</h3>
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
